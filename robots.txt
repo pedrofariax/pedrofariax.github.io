@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pedrofariax.github.io/diario/sitemap.xml
+Sitemap: https://pedrofariax.github.io/sitemap.xml
