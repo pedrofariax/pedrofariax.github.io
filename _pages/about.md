@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Bacharel em Nanotecnologia, pesquisador/entusiasta de Manufatura Aditiva e Mestre de RPG nas horas vagas. Frequentador assíduo do [R/PF2E]([http://reddit.com](https://www.reddit.com/r/Pathfinder2e/)). 
+Bacharel em Nanotecnologia, pesquisador/entusiasta de Manufatura Aditiva e Mestre de RPG nas horas vagas. Frequentador assíduo do [R/PF2E](https://www.reddit.com/r/Pathfinder2e/). 
