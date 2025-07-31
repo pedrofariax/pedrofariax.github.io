@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: diario # blog_name will be displayed in your blog page
-blog_description: uma breve descrição dos procedimentos desenvolvidos ao longo desta semana
+blog_name: Diário # blog_name will be displayed in your blog page
+blog_description: Uma breve descrição dos procedimentos desenvolvidos ao longo da semana.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
